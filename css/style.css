@@ -1,0 +1,98 @@
+body{
+    background: url(../img/ckeXy7baT.png);
+    background-position: 1px;
+    background-position: center;
+    text-align: center;
+    font-size: 60px;
+}
+h1{
+    color: rgb(96, 150, 197);
+    font-size:50px;
+    margin-top: 100px;
+}
+p{
+    color: #ecebf1fb;
+    font-size: 50px;
+}
+button{
+padding: 2px 4px;
+margin: 30px 20px;
+background: transparent;
+font-size: 20px;
+color: rgb(255, 255, 255);
+border: 5px solid #35315f;
+border-radius: 10px;
+transition: 0.3;
+cursor: pointer;
+}
+button:hover{
+background: #0d35e7e5;
+color: #ffffff;
+cursor: pointer;
+transition: 0.3s;
+}
+#btnSuma:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnResta:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnMultiplicacion:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnDivision:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnNumMay:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnNumMen:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnCuadrado:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+} 
+#btnArea:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnConversion:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnInversion:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+#btnNotas:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+}  
+#btnFruteria:hover{
+    background: #0d35e7e5;
+    cursor: pointer;
+    padding: 2px 4px;
+} 
+h2{
+    color: white;
+    font-size: 50px;
+
+}
